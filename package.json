@@ -1,0 +1,23 @@
+{
+  "name": "koa2-init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-resource/koa2-init.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/node-resource/koa2-init/issues"
+  },
+  "homepage": "https://github.com/node-resource/koa2-init#readme",
+  "devDependencies": {
+    "co": "^4.6.0",
+    "node-fetch": "^2.3.0"
+  }
+}
